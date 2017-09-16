@@ -1,0 +1,66 @@
+c:\CSharp\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmLoan.resources
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmPOS_收銀機.resources
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csproj.GenerateResource.Cache
+C:\CSharp\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe
+C:\CSharp\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.pdb
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmStudentStruct.resources
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csprojResolveAssemblyReference.cache
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmStudentList.resources
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmStudentList_V2.resources
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmLotto.resources
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.Frm標準練習.resources
+C:\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.Form1.resources
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.pdb
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csprojResolveAssemblyReference.cache
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmLoan.resources
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmPOS_收銀機.resources
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmStudentStruct.resources
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmStudentList.resources
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmStudentList_V2.resources
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.FrmLotto.resources
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.CSharp標準練習.resources
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.Form1.resources
+D:\隨身碟\KingStone\MSIT VS2012\C#  及 Windows AP 視窗\C# (MSIT 111)\CSharp\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csproj.GenerateResource.Cache
+D:\MSIT 115\MSIT 115\作業\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+D:\MSIT 115\MSIT 115\作業\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+D:\MSIT 115\MSIT 115\作業\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+D:\MSIT 115\MSIT 115\作業\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe
+D:\MSIT 115\MSIT 115\作業\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.pdb
+D:\MSIT 115\MSIT 115\作業\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csprojResolveAssemblyReference.cache
+D:\MSIT 115\MSIT 115\作業\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.CSharp標準練習.resources
+D:\MSIT 115\MSIT 115\作業\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\作業\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+C:\Users\III\Desktop\作業\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+C:\Users\III\Desktop\作業\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.pdb
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.CSharp標準練習.resources
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csproj.GenerateResource.Cache
+F:\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+F:\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+F:\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+C:\Users\bob_tsui\Desktop\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+C:\Users\bob_tsui\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+C:\Users\bob_tsui\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+C:\Users\bob_tsui\Desktop\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe
+C:\Users\bob_tsui\Desktop\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.pdb
+C:\Users\bob_tsui\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\bob_tsui\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.CSharp標準練習.resources
+C:\Users\bob_tsui\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csproj.GenerateResource.Cache
+C:\Users\bob_tsui\Desktop\作業練習\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+C:\Users\bob_tsui\Desktop\作業練習\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+C:\Users\bob_tsui\Desktop\作業練習\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+D:\資策會\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+D:\資策會\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+D:\資策會\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
