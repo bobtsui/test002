@@ -259,12 +259,12 @@ namespace MyHomeWork
         {
             lblResult.Text = "";
            string a = textBox5.Text;
-            int x;  // 輸入的行數
+            int xyz;  // 輸入的行數
             bool t;
-            t = int.TryParse(a, out x);
+            t = int.TryParse(a, out xyz);
             int n;//行的初值
             int y;  // *
-            for (n = 1; n<= x; n =n + 1)
+            for (n = 1; n<= xyz; n =n + 1)
             {
                 for (y = 1; y <= n; y = y + 1)
                 {

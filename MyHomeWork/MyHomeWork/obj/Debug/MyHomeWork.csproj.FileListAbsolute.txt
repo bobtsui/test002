@@ -64,3 +64,6 @@ C:\Users\bob_tsui\Desktop\作業練習\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWor
 D:\資策會\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
 D:\資策會\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
 D:\資策會\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+D:\GitHub\test002\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+D:\GitHub\test002\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+D:\GitHub\test002\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
